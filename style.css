@@ -1,0 +1,43 @@
+.inv
+{
+display:none;
+}
+.table1
+{
+display: none;
+visibility: hidden;
+margin-top: 20px;
+position: related;
+float: left;
+
+}
+.table2
+{
+float: left;
+background-color:black;
+margin-left:100px;
+margin-right:auto;
+}
+table
+{
+margin:0;
+padding:0;
+}
+tr,td,img
+{
+margin:0;
+padding:0;
+}
+img
+{
+margin:0;
+padding:0;
+}
+div
+{
+margin-left:100px;
+}
+#help
+{
+float:left;
+}
